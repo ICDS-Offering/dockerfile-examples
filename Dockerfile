@@ -1,4 +1,4 @@
 FROM ubuntu
-MAINTAINER Kimbro Staken
+MAINTAINER Dinesh Tripathi
 
 RUN echo "hello image"
