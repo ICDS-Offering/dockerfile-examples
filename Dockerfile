@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM nginx
 MAINTAINER Dinesh Tripathi
 
 RUN echo "hello image"
